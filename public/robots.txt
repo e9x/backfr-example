@@ -1,0 +1,1 @@
+Accessible from http://localhost:3000/robots.txt
