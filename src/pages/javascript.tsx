@@ -1,4 +1,5 @@
-import { BackPage, Head } from 'backfr';
+import type { BackPage } from 'backfr';
+import Head from 'backfr/head';
 
 const JsPage: BackPage = () => {
 	return (

@@ -1,4 +1,4 @@
-import { AppPage } from 'backfr';
+import type { AppPage } from 'backfr';
 import '../styles/root.scss';
 
 const App: AppPage = ({ Component, pageProps }) => <Component {...pageProps} />;

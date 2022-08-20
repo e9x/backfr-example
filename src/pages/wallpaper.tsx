@@ -1,4 +1,5 @@
-import { BackPage, Head } from 'backfr';
+import type { BackPage } from 'backfr';
+import Head from 'backfr/head';
 import styles from '../styles/wallpaper.module.scss';
 
 const Wallpaper: BackPage = () => {

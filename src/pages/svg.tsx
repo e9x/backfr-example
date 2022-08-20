@@ -1,4 +1,5 @@
-import { BackPage, Head } from 'backfr';
+import type { BackPage } from 'backfr';
+import Head from 'backfr/head';
 import { ReactComponent as FordFocus } from '../assets/compuserver_msn_Ford_Focus.svg';
 
 const Image: BackPage = () => {
