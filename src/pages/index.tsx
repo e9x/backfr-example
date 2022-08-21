@@ -27,6 +27,9 @@ const Index: BackPage = () => {
 					<li>
 						<a href="/wallpaper">Go to wallpaper</a>.
 					</li>
+					<li>
+						<a href="/time">Go to time</a>.
+					</li>
 				</ul>
 			</main>
 		</>
