@@ -3,7 +3,6 @@
 	"version": "1.0.0",
 	"description": "",
 	"private": true,
-	"main": "index.js",
 	"scripts": {
 		"dev": "npx backfr-builder dev",
 		"build": "npx backfr-builder",
